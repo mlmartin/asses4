@@ -1,0 +1,3 @@
+http://rug.mnhn.fr/semin-r/PDF/semin-R_phylogenetics_KSchliep_180310.pdf
+
+http://cran.r-project.org/web/packages/phangorn/vignettes/Trees.pdf
